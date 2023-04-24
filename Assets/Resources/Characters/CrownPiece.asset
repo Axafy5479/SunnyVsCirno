@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b9b6eaf8b998134c956ca05bb6dfa61, type: 3}
+  m_Name: CrownPiece
+  m_EditorClassIdentifier: 
+  enemyId: 7
+  enemyName: "\u304F\u3089\u3046\u3093\u3074\u30FC\u3059"
+  hp: 1
+  description: 
+  texture: {fileID: 21300000, guid: 2f4c511de43a1a0458a4f7486300dab8, type: 3}
+  sceneEffect: 0
+  point: 0
+  charaColor: {r: 0.509434, g: 0.49525702, b: 0, a: 1}
+  killSe: {fileID: 8300000, guid: 477415859153ce74882c90706a6e946e, type: 3}

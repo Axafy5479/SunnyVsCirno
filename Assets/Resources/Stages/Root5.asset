@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57b9a4941da40d4abab0e7a6254ca5d, type: 3}
+  m_Name: Root5
+  m_EditorClassIdentifier: 
+  stageId: 4
+  stageName: "\u308B\u30FC\u30685"
+  limitTime: 70
+  goals: 641900004c1d000034210000
+  stagePrefabs:
+  - {fileID: 8809168944982543357, guid: fbc9b82e8e5896e4fb1d05c18815ed52, type: 3}
+  - {fileID: 8379627469301000187, guid: 7e0a9f1294c362947ac9515a2fd30830, type: 3}
+  - {fileID: 6192843535224545191, guid: d179878332841b84d9d3f144cdaacd0d, type: 3}
+  - {fileID: 6896807356894392834, guid: f95e915650d94bf41a0d48eb22db37d1, type: 3}
+  - {fileID: 3558999664375696524, guid: 11cb588de8f83cc4f94c17d1453ec78f, type: 3}
+  - {fileID: 4668716962362710820, guid: 9bcb72f5290ae1d4f9a6390101f4cadc, type: 3}
+  - {fileID: 6717287544874164046, guid: 7aa9054dfcfedbe42ba7f0de9ce9bd08, type: 3}
+  bgm: {fileID: 8300000, guid: 563b61340c2e95e4cb7665d4fa132cd8, type: 3}

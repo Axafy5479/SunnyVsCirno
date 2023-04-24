@@ -1,0 +1,31 @@
+@startuml Data
+
+    class Bullet
+    {
+        + Number
+        + Crash()
+        + Delete()
+    }
+
+    abstract class Enemy
+    {
+        + Book
+        + Hp
+        + Delete()
+        + Crash()
+    }
+
+    class SceneData
+    {
+        + SceneEffects
+        + Enemies
+
+    }
+
+    class PlayerData
+    {
+        + MakeBullet()
+        + AddDefeatedEnemy()
+    }
+
+@enduml

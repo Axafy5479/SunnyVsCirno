@@ -1,0 +1,19 @@
+@startuml Info
+
+    enum SceneEffect
+    {
+    }
+
+    class EnemyBook
+    {
+        + EnemyName
+        + Hp
+        + Description
+        + Texture
+    }
+
+
+
+
+
+@enduml

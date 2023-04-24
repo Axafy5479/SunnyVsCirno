@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d57b9a4941da40d4abab0e7a6254ca5d, type: 3}
+  m_Name: Root2
+  m_EditorClassIdentifier: 
+  stageId: 1
+  stageName: "\u308B\u30FC\u30682"
+  limitTime: 40
+  goals: dc050000d0070000c4090000
+  stagePrefabs:
+  - {fileID: 2400812595355700796, guid: 87228924dc0ccbc4c95797bf89c89e76, type: 3}
+  - {fileID: 6476032919184294993, guid: 681b9404317092542ab3b90ca059ce0b, type: 3}
+  - {fileID: 8147785329055530505, guid: 561e97e734f6f8349a859f55665a836e, type: 3}
+  bgm: {fileID: 8300000, guid: 563b61340c2e95e4cb7665d4fa132cd8, type: 3}

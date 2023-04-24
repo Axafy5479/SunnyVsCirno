@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b9b6eaf8b998134c956ca05bb6dfa61, type: 3}
+  m_Name: Frandre
+  m_EditorClassIdentifier: 
+  enemyId: 6
+  enemyName: "\u30D5\u30E9\u30F3\u30C9\u30FC\u30EB"
+  hp: 1
+  description: 
+  texture: {fileID: 21300000, guid: 1bce9ed3fabf96a4ba2b3827bf733915, type: 3}
+  sceneEffect: 0
+  point: 0
+  charaColor: {r: 0.8867924, g: 0.610015, b: 0, a: 1}
+  killSe: {fileID: 8300000, guid: 477415859153ce74882c90706a6e946e, type: 3}

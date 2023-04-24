@@ -1,0 +1,35 @@
+@startuml package
+
+package Data{
+    class PlayerData
+    class Timer
+    class SceneData
+    class Enemy
+    class Player
+    class Bullet
+}
+
+package Info{
+    class EnemyBook
+}
+
+package Command{
+    abstract class CommandBase
+    class EnemyHandler
+    class PressCommand
+    class ShootCommand
+}
+
+package View{
+    class PlayerView
+    class EnemyView
+    class BulletView
+    class ShootButton
+}
+
+Command->Data
+View->Command
+
+
+
+@enduml

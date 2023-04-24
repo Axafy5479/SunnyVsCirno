@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b9b6eaf8b998134c956ca05bb6dfa61, type: 3}
+  m_Name: Lilly
+  m_EditorClassIdentifier: 
+  enemyId: 3
+  enemyName: "\u308A\u308A\u30FC"
+  hp: 1
+  description: "\u4E00\u5EA6\u3001\u4F55\u6708\u304C\u6625\u306A\u306E\u304B\u805E\u3044\u305F\u3053\u3068\u304C\u3042\u308B\u304C\u3001\n2\u6708\u4E0B\u65EC\u304B\u30897\u6708\u4E0A\u65EC\u307E\u3067\u304C\u6625\u3089\u3057\u3044(\u5618)\u3002\n\n\u3053\u306E\u6642\u671F\u306B\u306A\u308B\u3068\u6625\u306E\u62BC\u3057\u58F2\u308A\u3067\u5FD9\u3057\u3044\u3089\u3057\u304F\n<color=red>\u5E38\u306B\u52D5\u3044\u3066\u304A\u308A\u9577\u5C45\u306F\u3057\u306A\u3044</color>\n\u7279\u306B\u6068\u307F\u306F\u306A\u3044\u304C\u3001\u3068\u308A\u3042\u3048\u305A\u3057\u3070\u3044\u3066\u304A\u3053\u3046"
+  texture: {fileID: 21300000, guid: 42afc4697ec80004787d20271d1f0a14, type: 3}
+  sceneEffect: 0
+  point: 400
+  charaColor: {r: 1, g: 0.3443396, b: 1, a: 1}
+  killSe: {fileID: 8300000, guid: 4819c03ae4b8c9943a2714fefc37dc98, type: 3}
